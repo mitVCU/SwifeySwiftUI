@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>401602346815-fc5sukdhk8lrjl7ng2ddb5rq32aft017.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.401602346815-fc5sukdhk8lrjl7ng2ddb5rq32aft017</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA09ZmJT2BnwG14uKzInluooP54iGt7BbE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>401602346815</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mitamin.Swifey</string>
+	<key>PROJECT_ID</key>
+	<string>swifey-38b20</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swifey-38b20.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:401602346815:ios:c30dc3c0ef3cc8de25dd8a</string>
+	<key>DATABASE_URL</key>
+	<string>https://swifey-38b20.firebaseio.com</string>
+</dict>
+</plist>
