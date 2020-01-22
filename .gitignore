@@ -63,5 +63,9 @@ fastlane/report.xml
 fastlane/screenshots
 
 .DS_Store
-
+Pods/
+xcuserdata/
+*.xcworkspace/
 GoogleService-Info.plist
+Secrets
+Secrets.tar
